@@ -1,0 +1,30 @@
+{
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-plumber": "^1.2.1",
+    "gulp-sass": "^5.1.0"
+  },
+  "dependencies": {
+    "sass": "^1.54.0"
+  },
+  "name": "proyecto-nft",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass src/scss:build/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidFreelance19/Proyecto-NFT.git"
+  },
+  "keywords": [
+    "Sasss"
+  ],
+  "author": "David Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidFreelance19/Proyecto-NFT/issues"
+  },
+  "homepage": "https://github.com/davidFreelance19/Proyecto-NFT#readme",
+  "description": ""
+}
